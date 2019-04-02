@@ -1,0 +1,30 @@
+body {
+	background-color : #F8F8FF
+}
+
+article{
+	font-family: 'Helvetica';
+	border-style: solid;
+	border : 1px;
+	text-align: center;
+}
+
+form, img{
+	border-style: dashed;
+	padding: 20px;
+	display: table-cell;
+	text-align: justify;
+	background-color: #DCDCDC 
+}
+
+label {
+	margin-bottom: 5px;
+}
+
+.metodo{
+	display: inline-block;
+}
+
+span {
+	color : #008000
+}
